@@ -1,0 +1,12 @@
+.main-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.main-image {
+    max-width: 40%;
+    height: auto;
+    border-radius: 18px;
+    margin-top: 25px;
+}
+
